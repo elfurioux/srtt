@@ -1,0 +1,39 @@
+1
+00:00:11,402 --> 00:00:13,361
+subtitle text here
+
+2
+00:00:15,189 --> 00:00:16,886
+subtitle text here
+
+3
+00:00:17,017 --> 00:00:18,670
+subtitle text here
+
+4
+00:00:18,801 --> 00:00:21,412
+subtitle text here
+
+5
+00:00:21,543 --> 00:00:25,373
+subtitle text here
+
+6
+00:00:25,503 --> 00:00:27,679
+subtitle text here
+
+7
+00:00:27,810 --> 00:00:28,854
+subtitle text here
+
+8
+00:00:28,985 --> 00:00:30,073
+subtitle text here
+
+9
+00:00:30,204 --> 00:00:31,074
+subtitle text here
+
+10
+00:02:04,994 --> 00:02:07,214
+subtitle text here
